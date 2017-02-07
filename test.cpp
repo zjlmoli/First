@@ -2,5 +2,7 @@
 #include <string>
 using namespace std;
 int main() {
-	cout << "ï¿½ï¿½Ã£ï¿½ï¿½ï¿½ï¿½Ç²ï¿½ï¿½ï¿½ï¿½Äµï¿½ï¿½ï¿½ï¿½Òµï¿½Ò»ï¿½ï¿½Ó´ï¿½github";
+	cout << "ÄãºÃ£¬ÕâÊÇ²âÊÔÎÄµµ£¬ÎÒµÚÒ»Ìì½Ó´¥github";
+	cout<< "hello word";
 	return 0;
+}
